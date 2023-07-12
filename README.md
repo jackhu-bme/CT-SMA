@@ -10,7 +10,7 @@ This repo is the official implementation of paper: "**CT-based Subchondral Bone 
   <p align="center">
     Synthesis, Registration, Regression and Diagnosis for CT-based Subchondral Bone Microstructural Analysis in Knee Osteoarthritis
     <br />
-    <a href="https://github.com/jackhu-bme/SRRD"><strong>Document »</strong></a>
+    <a href="https://arxiv.org/abs/2307.04390"><strong>Paper »</strong></a>
     <br />
     <br />
     <a href="https://github.com/jackhu-bme/SRRD/issues">Report Bug</a>
